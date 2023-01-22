@@ -7,4 +7,4 @@
 
 
 #### this is how it looks 
-![](./output.png)
+[Click here to check](https://jazzy-mooncake-bd0c89.netlify.app/)
