@@ -8,3 +8,6 @@
 
 #### this is how it looks 
 [Click here to check](https://jazzy-mooncake-bd0c89.netlify.app/)
+
+# Screenshot
+![](./output.png)
